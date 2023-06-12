@@ -1,0 +1,94 @@
+---
+title: "Data Analyst Job Tracker"
+format: 
+  revealjs:
+    transition: slide
+    transition-speed: fast
+    slide-number: c/t
+    footer: "First slides"
+    theme: night
+editor: visual
+---
+
+## Quarto
+
+Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+
+## Bullets
+
+When you click the **Render** button a document will be generated that includes:
+
+-   Content authored with markdown
+-   Output from executable code
+
+## Top Skills
+
+![](https://cdn-images-1.medium.com/max/1350/1*L6YrS1zfm-KkB7LOb1alow.png)
+
+## Salary
+
+![](https://cdn-images-1.medium.com/max/900/1*y7CY1Paj7PyFHK2JPpbHHg.png)
+
+## Skills x Salary
+
+::: columns
+::: {.column width="50%"}
+![Python means more \$](https://cdn-images-1.medium.com/max/900/1*UFVhQ0s3cdXXtXHba2jEAA.png)
+:::
+
+::: {.column width="50%"}
+![Excel means less \$](https://cdn-images-1.medium.com/max/900/1*VcaYFcvy6RkaMX9XNiSX6A.png)
+:::
+:::
+
+## Salary x Skills (cont.)
+
+::: columns
+::: {.column width="50%"}
+![Cloud and Engineer stuff👍🏻](https://cdn-images-1.medium.com/max/900/1*GHc2bZ_eJet8seSuZlI_9Q.png){alt="Cloud and Engineer stuff👍🏻"}
+:::
+
+::: {.column width="50%"}
+![Cliches 👎🏻](https://cdn-images-1.medium.com/max/900/1*b7UzIS1nYmMBEWk0YbQNcg.png)
+:::
+:::
+
+## 
+
+AI is upon us
+
+::: columns
+::: {.column width="50%"}
+![](https://cdn-images-1.medium.com/max/900/1*l3NhR-0Lmez4dMnTTGN6Tg.png)
+:::
+
+::: {.column width="50%"}
+![](https://cdn-images-1.medium.com/max/900/0*WkTjVT1EGrGoY5u1)
+:::
+:::
+
+## Prediction 🔮
+
+::: columns
+::: {.column width="30%"}
+![% of jobs with salary larger than a few thresholds --- choosing my goal](https://cdn-images-1.medium.com/max/900/1*cdcA42yFUmYy__tMXuWuGw.png){alt="% of jobs with salary larger than a few thresholds — choosing my goal"}
+:::
+
+::: {.column width="70%"}
+![ML model results](https://cdn-images-1.medium.com/max/900/1*B1ZxXIkM6DPFNZT2BvOvmA.png){alt="ML model results"}
+:::
+:::
+
+## ML Results - Feature Importance
+
+![Skills are good for you (but not just any skills)](https://cdn-images-1.medium.com/max/900/1*yC65glRUlkLKNLlk-qinyg.png)
+
+## Verifying one prediction
+
+::: {.fragment fragment-index="1"}
+![My model says this job doesn't pay so well](https://cdn-images-1.medium.com/max/900/1*bF1Z-cMIRbAy5vY6ad7ZGA.png){alt="My model says this job doesn’t pay so well" width="542"}
+:::
+
+::: {.fragment fragment-index="2"}
+![And my model is right 🥳](https://cdn-images-1.medium.com/max/900/1*lg8fH5iV4cCt6eR_ulb4Qg.png){alt="And my model was right 🥳" width="453"}
+:::
